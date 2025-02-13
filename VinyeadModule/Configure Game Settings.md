@@ -1,0 +1,26 @@
+## Configure Game Settings
+
+### Lighting Settings
+1. Open Roblox Studio and load your project.
+2. In the Explorer panel, find and select `Lighting`.
+3. In the Properties panel, adjust the following settings to achieve the desired lighting effect for your vineyard environment:
+   - **Ambient**: Adjust to set the global ambient light color.
+   - **Brightness**: Adjust to change the intensity of the lighting.
+   - **OutdoorAmbient**: Adjust to set the ambient light color for outdoor areas.
+   - **TimeOfDay**: Set the time of day to simulate different lighting conditions (e.g., morning, afternoon, evening).
+
+### Camera Settings
+1. In the Explorer panel, find and select `StarterPlayer`.
+2. In the Properties panel, adjust the following settings to control the camera behavior for players:
+   - **CameraMaxZoomDistance**: Set the maximum distance the camera can zoom out.
+   - **CameraMinZoomDistance**: Set the minimum distance the camera can zoom in.
+   - **CameraMode**: Choose the camera mode (e.g., Classic, LockFirstPerson, Follow).
+
+### Player Settings
+1. In the Explorer panel, find and select `StarterPlayer`.
+2. In the Properties panel, adjust the following settings to customize player movement and display settings:
+   - **WalkSpeed**: Set the player's walking speed.
+   - **JumpPower**: Set the player's jumping power.
+   - **HealthDisplayDistance**: Set the distance at which player health is displayed.
+
+By configuring these settings, you can create a more immersive and visually appealing environment for your vineyard game.
